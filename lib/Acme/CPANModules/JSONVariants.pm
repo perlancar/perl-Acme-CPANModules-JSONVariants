@@ -1,4 +1,4 @@
-package Acme::CPANModules::WorkingWithTree;
+package Acme::CPANModules::JSONVariants;
 
 use strict;
 use warnings;
