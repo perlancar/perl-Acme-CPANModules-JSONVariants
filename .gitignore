@@ -1,0 +1,5 @@
+Acme-CPANModules-JSONVariants-*
+.build
+*~
+nytprof*
+.DS_Store
